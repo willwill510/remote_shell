@@ -26,6 +26,6 @@ Installing this remote shell is as simple as using "setup.exe" on the client dev
 
 3. Install the files
 
-4. run "client\setup.exe" on the target machine
+4. run "client\setup.exe" on the target machine ("client\client.zip" MUST me in the same directory during setup)
 
 5. run "server\server.exe" on your device
