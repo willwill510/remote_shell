@@ -9,8 +9,5 @@ The server can handle many clients simultaneously with custom labeling.
 ### File get & putting
 The server can get files from the client aswell as putting files into the client.
 
-### Avoids Windows Defender
-If installed correctly windows defender will not detect this remote shell.
-
 ### Easily modable
 Adding custom commands is easy, just add a new type to use and add the logic to the mainloop of both server and client.
