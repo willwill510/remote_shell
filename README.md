@@ -1,21 +1,21 @@
 # Features
 
-## Remotely command clients
+### Remotely command clients
 The server can run any command which does not need elevated privileges.
 
-## Multiple clients
+### Multiple clients
 The server can handle many clients simultaneously.
 
-## File get & putting
+### File get & putting
 The server can get files from the client aswell as putting files into the client.
 
-## Avoids Windows Defender
+### Avoids Windows Defender
 If installed correctly windows defender will not detect this remote shell.
 
-## Easily modable
+### Easily modable
 Adding custom commands is easy, just add a new type to use and add the logic to the mainloop of both server and client.
 
-## Simple installation
+### Simple installation
 Installing this remote shell is as simple as using "setup.exe" on the client device then running the server
 
 # Installation
