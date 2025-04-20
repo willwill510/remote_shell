@@ -1,7 +1,7 @@
 # Features
 
 ### Custom protocol using message types
-A custom protocol is used to send and recive messages which includes type, length, and the base64 encoded message itself
+A custom protocol is used to send and recive messages which includes type, length, and the base64 encoded message itself.
 
 ### Timouts and retrys
 The client will timeout commands in order to avoid infinite hanging.
